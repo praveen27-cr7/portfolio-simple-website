@@ -1,6 +1,6 @@
-┌───────────────────────────────────────────────┐
+
 │           SIMPLE PORTFOLIO WEBSITE            │
-└───────────────────────────────────────────────┘
+
 
 > Description:
   A basic 2-page portfolio website built using HTML and CSS.
