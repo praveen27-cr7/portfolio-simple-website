@@ -28,7 +28,7 @@
   
 
 > Live Demo:
-  Add your hosted link here
+  https://praveen27-cr7.github.io/portfolio-simple-website/
 
 > Contact:
   Email : praveen270304@gmail.com
